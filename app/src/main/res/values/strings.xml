@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda CouchDB</string>
+    <string name="buscar">Buscar Amigos</string>
+    <string name="nombre">Nombres</string>
+    <string name="telefono">Telefono</string>
+    <string name="direccion">Direccion fisica donde vives</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="guardar">Guardar Amigo</string>
+</resources>
