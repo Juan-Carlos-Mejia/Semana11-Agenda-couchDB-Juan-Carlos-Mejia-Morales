@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/mnxAgregar" android:title="Agregar">Agregar</item>
-    <item android:id="@+id/mnxModificar" android:title="Modificar">Modificar</item>
-    <item android:id="@+id/mnxEliminar" android:title="Eliminar">Eliminar</item>
+    <item
+        android:id="@+id/mnxAgregar"
+        android:title="@string/agregar">Agregar
+    </item>
+    <item
+        android:id="@+id/mnxModificar"
+        android:title="@string/modificar">Modificar
+    </item>
+    <item
+        android:id="@+id/mnxEliminar"
+        android:title="@string/eliminar">Eliminar
+    </item>
 </menu>

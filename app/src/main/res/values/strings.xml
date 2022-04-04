@@ -6,4 +6,7 @@
     <string name="direccion">Direccion fisica donde vives</string>
     <string name="correo">Correo Electronico</string>
     <string name="guardar">Guardar Amigo</string>
+    <string name="agregar">Agregar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
 </resources>
